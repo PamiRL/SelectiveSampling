@@ -1,7 +1,7 @@
 # SelectiveSampling
 ## Algorithm Design
 <div align=center>
-  <img src="./figures/icassp_revised.png" width="800"/>
+  <img src="./figures/icassp_revised.png" width="1200"/>
 </div>
 
 ## Internal Hierarchy：Diversity of clustering buffer
@@ -18,7 +18,7 @@
 
 ## More clearly results of Halfcheetah
 <div align=center>
-  <img src="./figures/halfcheetah_new.jpg" width="800"/>  
+  <img src="./figures/halfcheetah_new.jpg" width="600"/>  
   <img src="./figures/halfcheetah.jpg" width="600"/>  
 </div>
 
@@ -30,5 +30,5 @@
 
 # Overall 
 <div align=center>
- <img src="./figures/icassp_revised.png" width="800"/>
+ <img src="./figures/icassp_revised.png" width="1000"/>
 </div>
