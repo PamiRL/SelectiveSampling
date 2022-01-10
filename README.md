@@ -7,7 +7,7 @@
 ## Internal Hierarchy：Diversity of clustering buffer
 
 <div align=center>
-  <img src="./figures/cluster.jpeg" width="600"/>
+  <img src="./figures/cluster_with_redline.png" width="800"/>
 </div>
 
 ## Add on-clustering on Ant & Hopper
